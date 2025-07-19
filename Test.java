@@ -1,7 +1,7 @@
 
 class Test{
     public static void main(String[] args) {
-        System.out.println("Hello, World! main_f");
+        System.out.println("Hello, World! child_f");
         // This is a simple Java program that prints "Hello, World!" to the console.
         System.out.println("This is a test of the Java program structure.");
         // You can add more functionality here as needed.
